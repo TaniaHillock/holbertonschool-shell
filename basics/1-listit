@@ -1,6 +1,2 @@
 #!/bin/bash
-printf "%s " "Total files:" $(find $DIR -type f | wc -l)
-
-
-
-
+ls
