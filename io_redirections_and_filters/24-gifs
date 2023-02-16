@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "afile_1_g" "cfile_2" 
+find -type f -name "*file*" 
