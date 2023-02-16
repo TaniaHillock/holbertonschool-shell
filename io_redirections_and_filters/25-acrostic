@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -b 1 | paste -s| 
+cut -b 1 | paste -s|sed 's/ //g'
